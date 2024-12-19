@@ -1,0 +1,3 @@
+D:/C++/derivatives_C++/build/CMakeFiles/VanillaMain2.dir
+D:/C++/derivatives_C++/build/CMakeFiles/edit_cache.dir
+D:/C++/derivatives_C++/build/CMakeFiles/rebuild_cache.dir
